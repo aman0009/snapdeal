@@ -24,5 +24,3 @@ What Problem I am solving ?
  I’m curious to understand people and I’m driven to build great products for them.
   **This bot will help to make the shopping easier for the customers and will increase the customers as it will be an easy way to book the order**
 
-
-https://botpreview.com/p/a7159867-45b5-46c0-b0f9-00851b87de3c
